@@ -1,0 +1,8 @@
+1. JVM full form 
+A: Java Virtual Machine
+
+2. JDK full form
+A: Java Development Kit
+
+3. JIT full form 
+A: Just In Time
